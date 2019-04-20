@@ -1,5 +1,5 @@
 class Box:
-    def __init__(self, rune=""):
+    def __init__(self, rune="-"):
         self.rune = rune
     
     def is_empty(self):
